@@ -16,12 +16,12 @@
     "LANGUAGE": "en_US",
     "LOG_LEVEL": 1,
     "MODERATORS": [
-        "PUT YOUR UID HERE"
+        "100065246477756"
     ],
     "ABSOLUTES": [
-        "PUT YOUR UID HERE"
+        "100065246477756"
     ],
-    "NAME": "𝙼𝚘𝚌𝚑𝚊 𝙰𝚒",
+    "NAME": "Yhanna Bot",
     "PREFIX": "-",
     "timezone": "Asia/Manila",
     "REFRESH": "43200000"
